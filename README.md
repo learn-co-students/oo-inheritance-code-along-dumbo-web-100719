@@ -1,4 +1,4 @@
-# Code Along: An Intro to Inheritance
+clas# Code Along: An Intro to Inheritance
 
 ## Objectives
 
